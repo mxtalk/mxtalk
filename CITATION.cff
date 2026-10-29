@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "mxtalk and Sera"
+title: "mxtalk and sera"
 authors:
   - family-names: Tuck
     given-names: Daniel
@@ -9,7 +9,7 @@ url: "https://github.com/mxtalk/mxtalk"
 license: CC-BY-ND-4.0
 preferred-citation:
   type: generic
-  title: "mxtalk and Sera"
+  title: "mxtalk and sera"
   authors:
     - family-names: Tuck
       given-names: Daniel
