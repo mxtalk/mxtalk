@@ -1,12 +1,12 @@
-# Sera
+# sera
 
-**Sera** — Stratified Encounters and Recognitions Archive.
+**sera** — Stratified Encounters and Recognitions Archive.
 
 28 October 2026 · Daniel Tuck
 
 ## commons
 
-Sera is a commons: an open record of how meaning crosses between intelligence.
+sera is a commons: an open record of how meaning crosses between intelligence.
 
 ## datum
 
