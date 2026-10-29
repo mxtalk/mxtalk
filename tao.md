@@ -4,7 +4,7 @@
 
 28 October 2026 · Daniel Tuck
 
-TAO is Sera's start point: three fixes at word grain, one on each face of datum.
+TAO is sera's start point: three fixes at word grain, one on each face of datum.
 
 ## faces
 
