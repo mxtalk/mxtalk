@@ -12,7 +12,7 @@ TAO is sera's start point: three fixes at word grain, one on each face of datum.
 - **and** — Coordination: ordered together, none above.
 - **of** — Connective: bound together, belonging persists.
 
-## fixes, as of 28 October 2026
+## fixes, as at 28 October 2026
 
 **the**
 - *function* — Marks a referent as resolved: nothing left to choose.
