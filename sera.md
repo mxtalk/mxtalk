@@ -16,7 +16,7 @@ Datum is defined in mxtalk.md: fixed, not immovable.
 
 Fixes gravitate toward datum as they grow gravitas. Each one builds datum further from principle into practice; datum as defined in mxtalk.md stays intact.
 
-Gravitas grows as consensus and coordination cohere through a fix. It is continuous and calculated from evidence. Evidence comes from surveys, their repairs, and tests of those repairs.
+Gravitas grows as consensus and coordination cohere through a fix. It is continuous and calculated from evidence. Evidence comes from survey passes, and from tests of the repairs they log.
 
 A fix must be encounterable: a position held sufficiently stable to be found again, tested and related.
 
@@ -24,9 +24,9 @@ A fix must be encounterable: a position held sufficiently stable to be found aga
 
 **fix** — Latin *fixus*, fastened, settled. In navigation, position taken where bearings cross. Holds until next fix.
 
-**survey** — Medieval Latin *supervidere*, to oversee, from *super*, over, and *videre*, to see. One or more fixes applied to one text, recording every spot where each fires or passes.
+**survey** — Medieval Latin *supervidere*, to oversee, from *super*, over, and *videre*, to see. One or more fixes set against one text. Each fix fires at every use of its word; each pass, by one surveyor, records every fire as clear or repaired. 
 
-**repair** — Latin *reparare*, to put back in order, from *re-*, again, and *parare*, to make ready. One change, at one spot where a fix's rule fires.
+**repair** — Latin *reparare*, to put back in order, from *re-*, again, and *parare*, to make ready. One change, logged against the original text, where a fix's rule calls for it.
 
 ## strata
 
