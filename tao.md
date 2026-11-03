@@ -6,6 +6,8 @@
 
 TAO is sera's start point: three fixes at word grain, one on each face of datum.
 
+*This page explains how TAO was built and how it can be understood. It is not a fix. Surveys apply the fixes in the sera repo as written.*
+
 ## faces
 
 - **the** — Consensus: sensed together, not held by one.
