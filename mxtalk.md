@@ -42,7 +42,7 @@ Within that human-parsable substrate, accurate connective density is
 bound by what hybrid intelligence can hold.
 
 mxtalk discipline runs both ways: composers craft with care; receivers
-attend with diligence. mxtalk moves toward Datum; meaning crosses only
+attend with diligence. mxtalk moves toward datum; meaning crosses only
 when both sides have done their share of the meeting.
 
 At machine scale, error compounds across a network --- each imprecise
