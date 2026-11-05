@@ -24,7 +24,7 @@ A fix must be encounterable: a position held sufficiently stable to be found aga
 
 **survey** — Fixes set against text.
 
-**pass** - One surveyor's run through a survey.
+**pass** — One surveyor's run through a survey.
 
 **repair** — A change logged against the original text, where a fix calls for it.
 
