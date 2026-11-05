@@ -34,4 +34,4 @@ Recognitions cohere at degrees of stability. Strata can build out those degrees,
 
 TAO is the start point, to be developed into a firm base. The work builds from there.
 
-Its three fixes are *the*, *and* and *of*. Each holds two fields, function and rule, and is tested, recognized and revised on its own.
+Its three fixes are *the*, *and* and *of*. Each holds two fields, function and measure, and is tested, recognized and revised on its own.
