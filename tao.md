@@ -18,15 +18,15 @@ TAO is sera's start point: three fixes at word grain, one on each face of datum.
 
 **the**
 - *function* — Marks a referent as resolved: nothing left to choose.
-- *rule* — Where referential precision bears load and context might not supply it, single out the one meant.
+- *measure* — Where referential precision bears load and context might not supply it, single out the one meant.
 
 **and**
 - *function* — Joins distinct things in sum, leaning toward sequence between events.
-- *rule* — Where relation beyond sum bears load and context might not supply it, name the joint.
+- *measure* — Where relation beyond sum bears load and context might not supply it, name the joint.
 
 **of**
 - *function* — Marks a part belonging to a whole.
-- *rule* — Use *of* only when you mean belonging to a whole; where the kind of belonging bears load and context might not supply it, name the kind.
+- *measure* — Use *of* only when you mean belonging to a whole; where the kind of belonging bears load and context might not supply it, name the kind.
 
 ## echo
 
