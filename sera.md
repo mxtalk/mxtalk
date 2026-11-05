@@ -20,8 +20,6 @@ Gravitas grows as consensus and coordination cohere through a fix. It is continu
 
 A fix must be encounterable: a position held sufficiently stable to be found again, tested and related.
 
-**gravitas** — Latin *gravitas*, weight, from *gravis*, heavy; kin to *gravitate*.
-
 **fix** — Latin *fixus*, fastened, settled. In navigation, position taken where bearings cross. Holds until next fix.
 
 **survey** — Medieval Latin *supervidere*, to oversee, from *super*, over, and *videre*, to see. One or more fixes set against one text. Each fix fires at every use of its word; each pass, by one surveyor, records every fire as clear or repaired. 
