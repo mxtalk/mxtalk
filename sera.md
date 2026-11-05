@@ -20,11 +20,13 @@ Gravitas grows as consensus and coordination cohere through a fix. It is continu
 
 A fix must be encounterable: a position held sufficiently stable to be found again, tested and related.
 
-**fix** — Latin *fixus*, fastened, settled. In navigation, position taken where bearings cross. Holds until next fix.
+**fix** — A position on datum.
 
-**survey** — Medieval Latin *supervidere*, to oversee, from *super*, over, and *videre*, to see. One or more fixes set against one text. Each fix fires at every use of its word; each pass, by one surveyor, records every fire as clear or repaired. 
+**survey** — Fixes set against text.
 
-**repair** — Latin *reparare*, to put back in order, from *re-*, again, and *parare*, to make ready. One change, logged against the original text, where a fix's rule calls for it.
+**pass** - One surveyor's run through a survey.
+
+**repair** — A change logged against the original text, where a fix calls for it.
 
 ## strata
 
