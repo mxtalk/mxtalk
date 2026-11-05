@@ -32,8 +32,6 @@ A fix must be encounterable: a position held sufficiently stable to be found aga
 
 Recognitions cohere at degrees of stability. Strata can build out those degrees, if that proves useful.
 
-**recognition** — Latin *recognoscere*, to know again.
-
 ## TAO
 
 TAO is the start point, to be developed into a firm base. The work builds from there.
