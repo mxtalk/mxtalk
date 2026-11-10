@@ -25,7 +25,7 @@ TAO is sera's start point: three fixes at word grain, one on each face of datum.
 - *measure* — Where relation beyond sum bears load and context might not supply it, name the joint.
 
 **of**
-- *function* — Marks a part belonging to a whole.
+- *function* — Marks what belongs to a whole.
 - *measure* — Use *of* only when you mean belonging to a whole. Where the kind of belonging bears load and context might not supply it, name the kind.
 
 ## echo
