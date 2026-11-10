@@ -32,7 +32,7 @@ TAO is sera's start point: three fixes at word grain, one on each face of datum.
 
 *the* · 1, *and* · +, *of* · =.
 
-*The* resolves to one; *and* sums; *of* binds the part to its whole: 364 is of 365; 365 is not of 364.
+*The* resolves to one; *and* sums; *of* marks what belongs to its whole: 364 is of 365; 365 is not of 364.
 
 *Of* is a one-way equals. Arithmetic's = simulates running both ways; mapped to reality, it takes a direction, and *of* carries it.
 
